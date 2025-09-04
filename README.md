@@ -19,24 +19,8 @@ A complete set of professional documentation has been prepared:
 - **Research Paper (LaTeX)** – Academic foundation and technical depth.
 
 **Project Structure**
-sanskrit-encoder/
-├── docs/
-│ ├── Implementation_Guide.docx
-│ ├── API_Reference.md
-│ ├── Developer_Guide.md
-│ └── Research_Paper.tex
-├── src/
-│ ├── client/
-│ ├── server/
-│ ├── core/
-│ └── utils/
-├── examples/
-│ ├── basic-usage.js
-│ ├── express-server.js
-│ └── secure-implementation.js
-├── tests/
-├── README.md
-└── package.json
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0c10757f-6299-4e91-a51b-f3b5e022283d" />
+
 
 ## 🚀 Getting Started
 

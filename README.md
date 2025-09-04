@@ -19,5 +19,7 @@ Sanskrit Encoder is revolutionary because it combines:
 
 ## 🚀 Quick Start
 
-### Installation
+### Installation : 
+npm install @avdhutsalunkhe/sanskrit-encoder
+
 

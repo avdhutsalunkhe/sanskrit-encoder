@@ -19,7 +19,7 @@ A complete set of professional documentation has been prepared:
 - **Research Paper (LaTeX)** – Academic foundation and technical depth.
 
 **Project Structure**
-<img height="153" alt="image" src="https://github.com/user-attachments/assets/0c10757f-6299-4e91-a51b-f3b5e022283d" />
+<img height="999" alt="image" src="https://github.com/user-attachments/assets/0c10757f-6299-4e91-a51b-f3b5e022283d" />
 
 
 ## 🚀 Getting Started
